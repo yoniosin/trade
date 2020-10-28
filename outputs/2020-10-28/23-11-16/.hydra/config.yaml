@@ -1,8 +1,0 @@
-net:
-  lr: 0.005
-data:
-  train_ratio: 0.8
-  threshold: 100.0
-  look_back: 5
-  batch_size: 10
-max_epochs: 20

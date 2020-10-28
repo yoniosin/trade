@@ -1,0 +1,10 @@
+[2020-10-28 23:16:51,658][neptune.internal.hardware.gpu.gpu_monitor][WARNING] - NVMLError: NVML Shared Library Not Found - GPU usage metrics may not be reported.
+[2020-10-28 23:16:52,670][lightning][INFO] - NeptuneLogger will work in online mode
+[2020-10-28 23:16:52,678][lightning][INFO] - GPU available: False, used: False
+[2020-10-28 23:16:52,678][lightning][INFO] - TPU available: False, using: 0 TPU cores
+[2020-10-28 23:16:52,679][lightning][INFO] - Running in fast_dev_run mode: will run a full train, val and test loop using a single batch
+[2020-10-28 23:16:52,931][lightning][INFO] - 
+  | Name    | Type             | Params
+---------------------------------------------
+0 | layers  | Sequential       | 236 K 
+1 | loss_fn | CrossEntropyLoss | 0     
